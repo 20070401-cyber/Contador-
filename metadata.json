@@ -1,0 +1,6 @@
+{
+  "name": "RACHA - App Android Jetpack Compose",
+  "description": "App Android en Kotlin con Jetpack Compose en modo oscuro para registrar días consecutivos de estudio sin internet ni anuncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
